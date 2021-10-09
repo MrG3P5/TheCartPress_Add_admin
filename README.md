@@ -16,7 +16,7 @@
 > git clone https://github.com/MrG3P5/TheCartPress_Add_admin
 > cd TheCartPress_Add_admin
 > pip3 install -r requirements.txt
-> python3 main.py
+> python3 exploit.py
 ```
 
 ### Install In Linux With Root
@@ -28,10 +28,10 @@
 > git clone https://github.com/MrG3P5/TheCartPress_Add_admin
 > cd TheCartPress_Add_admin
 > pip3 install -r requirements.txt
-> python3 main.py
+> python3 exploit.py
 ```
 
 ### Tools Overview
-|    main.py    |
+|    exploit.py    |
 | ------------- |
 |![Index](https://a.top4top.io/p_2108mi0sd1.jpg)|
